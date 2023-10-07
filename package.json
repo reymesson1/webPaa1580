@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "@shopify/shopify-api": "^7.0.0",
+    "bcrypt-nodejs": "^0.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "mongoose": "^5.13.5",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.6.3",
+    "nodemailer-smtp-transport": "^2.7.4",
+    "sharp": "^0.29.1",
+    "shopify": "^0.1.0",
+    "xoauth2": "^1.2.0"
+  },
+  "name": "webpaa1580",
+  "version": "1.0.0",
+  "description": "Tennis Stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reymesson1/webPaa1580.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reymesson1/webPaa1580/issues"
+  },
+  "homepage": "https://github.com/reymesson1/webPaa1580#readme"
+}
