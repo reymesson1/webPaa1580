@@ -1172,13 +1172,13 @@ class App extends Component {
 
       let logged
 
-      if(this.isAuthenticated()){
+      // if(this.isAuthenticated()){
 
-        logged = false
-      }else{
+      //   logged = false
+      // }else{
 
-        logged = true
-      }
+      //   logged = true
+      // }
 
       let passwordError
       
